@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# secrets
+.env
+.env.*
+*.key
+
+# logs
+*.log
+logs/
+
+# temporary
+tmp/
+temp/
