@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目代码学习导师"
+  short_description: "面向 Python 初学者的项目代码导读、调用链梳理与学习陪练"
+  default_prompt: "使用 $learning-codebases 带我从基础 Python 学习者的视角理解当前项目。"

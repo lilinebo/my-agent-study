@@ -1,0 +1,92 @@
+[
+  {
+    "name": "learning-codebases",
+    "repo": "Eijnewgnaw/learning-codebases",
+    "path": "skill/learning-codebases",
+    "ref": "07faad3974ee6238c42d119f6441d46c6134bb2c",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "6ac6c338cdae8e1e3bf7132e688ffa7327feb1f14d03ada93674eb6e03a30687"
+  },
+  {
+    "name": "code-archaeology",
+    "repo": "luanluan1/code-archaeology-skill",
+    "path": "skill/code-archaeology",
+    "ref": "14825a6d8ff828c8de0ea42171d1a1bcb0f9cf9c",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "a423d99401d27818c0f70a157327e216167e9a3b14f8a1f5bca1feb175831240"
+  },
+  {
+    "name": "software-architecture-review",
+    "repo": "liza-mas/liza",
+    "path": "skills/software-architecture-review",
+    "ref": "7e12901e914b014041ddf8c7f45e4ddab07b338d",
+    "license": "Apache-2.0",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "0ef63f1b1d08590adedb9c4e827e758534c43f180630ddb3422fd22ac3e62349"
+  },
+  {
+    "name": "code-reviewer",
+    "repo": "sickn33/antigravity-awesome-skills",
+    "path": "skills/code-reviewer",
+    "ref": "c062f9f9a104d9ebf88cefcacc0993e101db5e7c",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "a164878668ff650356e26c6e18073b1b7c77890f8b73702eff581675514f66f0"
+  },
+  {
+    "name": "agent-builder",
+    "repo": "shareAI-lab/learn-claude-code",
+    "path": "skills/agent-builder",
+    "ref": "ce8f9f186058939da54c9d6fead78dfb5d0fd6c3",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "4b88e0f4c19caf58f38ca6bd27e55d8ab94ebf0ad54d4ffb7da83559e020dbc7"
+  },
+  {
+    "name": "agent-evaluation",
+    "repo": "sickn33/antigravity-awesome-skills",
+    "path": "skills/agent-evaluation",
+    "ref": "c062f9f9a104d9ebf88cefcacc0993e101db5e7c",
+    "license": "MIT collection; upstream attribution Apache-2.0 in SKILL.md",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "35a81463e739fbd8021e6e775c14440ed0b6d264f1ec83b6ea9ddd3909b86d3f"
+  },
+  {
+    "name": "technical-project-management",
+    "repo": "magnus919/agent-skills",
+    "path": "technical-project-management",
+    "ref": "b3b45651ffa2ca882911c2ebfeeab8e3dc7b53ce",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "e389237f52fa197e5ceecf9f04da83c1fec110f41dbec0122e20da25e717b111"
+  },
+  {
+    "name": "technical-writer",
+    "repo": "OneWave-AI/claude-skills",
+    "path": "technical-writer",
+    "ref": "fc5b7851a6c7ba367e05797df46ad3679df355dd",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "283aebf9745aadd0941c598cc4d6bb12d6bff57fc79748c247ca052c3108ced0"
+  },
+  {
+    "name": "mcp-builder",
+    "repo": "anthropics/skills",
+    "path": "skills/mcp-builder",
+    "ref": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "license": "Apache-2.0 (bundled LICENSE.txt)",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "0f4592dcb53cf2b5d6b7febee6b4152018b565551a1c29e3c612f57b218ab295"
+  },
+  {
+    "name": "systematic-debugging",
+    "repo": "sickn33/antigravity-awesome-skills",
+    "path": "skills/systematic-debugging",
+    "ref": "c062f9f9a104d9ebf88cefcacc0993e101db5e7c",
+    "license": "MIT",
+    "installed_date": "2026-10-14",
+    "skill_md_sha256": "2043610969aecd8cb2c9526c1b1a07419721c5f6ba436d0954a18fd5af25ffc8"
+  }
+]
