@@ -4,6 +4,7 @@
 
 ## 学习记录
 
+- [2026-10-21：Tool System / Tool Registry——W7D3 作业与实验](2026-10-21-toolsystem-toolregistry.md)：两条查找路径、响应契约、正常与未知工具测试、工具链异常复现。
 - [2026-10-15：Agent 范式与工具系统——代码点评及巩固笔记](2026-10-15-agent-paradigms-and-tools.md)：四种范式、版本兼容、工具契约、离线验证与主动回忆题。
 
 ## 章节模板
