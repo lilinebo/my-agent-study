@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gpt-695fb8dd571c18d3198f79cae1855e30",
+  "version": "0.2.0",
+  "description": "查询A股实时行情，并结合公告、行业与市场信息做清晰分析。",
+  "author": {
+    "name": "GPT Creator"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Education & Research",
+        "defaultPrompt": [
+          "查询 000725 现在的价格",
+          "分析一下 600519 今天的走势",
+          "帮我看 300750 最近有什么重要消息"
+        ],
+        "developerName": "GPT Creator",
+        "displayName": "A股行情分析助手",
+        "longDescription": "查询A股实时行情，并结合公告、行业与市场信息做清晰分析。",
+        "shortDescription": "查询A股实时行情，并结合公告、行业与市场信息做清晰分析。"
+      }
+    }
+  }
+}
+

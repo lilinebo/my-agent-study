@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "a-share-quotes": {
+      "type": "streamable-http",
+      "url": "https://quoted-because-reaction-trail.trycloudflare.com/mcp",
+      "headers": {}
+    }
+  }
+}
+

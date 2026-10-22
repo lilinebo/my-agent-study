@@ -1,0 +1,5 @@
+interface:
+  default_prompt: 查询 000725 现在的价格
+  display_name: A股行情分析助手
+  short_description: 查询A股实时行情，并结合公告、行业与市场信息做清晰分析。
+
